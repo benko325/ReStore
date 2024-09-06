@@ -1,2 +1,2 @@
 # ReStore
-An e-commerce store with .NET, React and Redux
+An e-commerce store built with .NET, React, and Redux
